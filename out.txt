@@ -1,0 +1,48 @@
+-------------TAILLE--------------------------------------------------------------
+Moyenne: 175.7258 cm
+Médiane: 177.5 cm
+Premier Quartile: 172.5 cm
+Troisième Quartile: 177.5 cm
+Variance: 20.2393
+Ecart-type: 4.4988 cm
+
+Fréquence
+Taille: 162.5, Occ: 1, Freq: 3.2258%
+Taille: 167.5, Occ: 1, Freq: 3.2258%
+Taille: 172.5, Occ: 11, Freq: 35.4839%
+Taille: 177.5, Occ: 13, Freq: 41.9355%
+Taille: 182.5, Occ: 5, Freq: 16.129%
+
+Etendue: 20.0 cm
+Intervalle Inter-Quartile: 5.0
+Ecart absolu moyen: 3.6733
+Ecart absolu median: 3.3871
+Coefficient de variation: 0.0256
+Ecart moyen relatif: 0.0209
+Coefficient Interquartile Relatif: 0.0282
+-------------POIDS--------------------------------------------------------------
+Moyenne: 66.5323 kg
+Médiane: 67.5 kg
+Premier Quartile: 57.5 kg
+Troisième Quartile: 72.5 kg
+Variance: 126.4828
+Ecart-type: 11.2465 kg
+
+Fréquence
+Taille: 47.5, Occ: 1, Freq: 3.2258%
+Taille: 52.5, Occ: 5, Freq: 16.129%
+Taille: 57.5, Occ: 3, Freq: 9.6774%
+Taille: 62.5, Occ: 5, Freq: 16.129%
+Taille: 67.5, Occ: 5, Freq: 16.129%
+Taille: 72.5, Occ: 7, Freq: 22.5806%
+Taille: 77.5, Occ: 3, Freq: 9.6774%
+Taille: 92.5, Occ: 1, Freq: 3.2258%
+Taille: 97.5, Occ: 1, Freq: 3.2258%
+
+Etendue: 50.0 kg
+Intervalle Inter-Quartile: 15.0
+Ecart absolu moyen: 8.8033
+Ecart absolu median: 8.7097
+Coefficient de variation: 0.169
+Ecart moyen relatif: 0.1323
+Coefficient Interquartile Relatif: 0.2222
